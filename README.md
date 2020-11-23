@@ -1,2 +1,2 @@
 # deltaPID
-Code to accompany "Information Decomposition and the Information Delta Space" by Kunert-Graf et al.
+Code to accompany "Partial Information Decomposition and the Information Delta: A Geometric Unification Disentangling Non-Pairwise Information" by Kunert-Graf, Sakhanenko and Galas
